@@ -1,3 +1,7 @@
+MDT Install
+Setup.exe /qn
+
+
 http://www.msfn.org/board/topic/34332-office-2000-slipstreaming/
 http://www.msfn.org/board/topic/93146-silent-install-ms-office-2000/
 
